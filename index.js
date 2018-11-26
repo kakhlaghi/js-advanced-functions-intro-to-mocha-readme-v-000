@@ -15,7 +15,7 @@ return `I love ${flavor}`
 }
 
 function shouting(someString){
-  return string.toUpperCase()
+  return someString.toUpperCase()
 }
 
 

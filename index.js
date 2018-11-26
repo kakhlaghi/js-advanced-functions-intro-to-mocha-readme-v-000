@@ -21,6 +21,6 @@ function shouting(someString){
 
 function roundDown(someNum){
   if (someNum)
-  return Math.rounddown(someNum)
-  
+  return Math.floor(someNum)
+
 }

@@ -20,5 +20,5 @@ function shouting(someString){
 
 
 function roundDown(someNum){
-  return Math.round(some)
+  return Math.round(someNum)
 }

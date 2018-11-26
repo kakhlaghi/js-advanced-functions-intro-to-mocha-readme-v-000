@@ -7,5 +7,5 @@ function sayHey(){
 }
 
 function sayHeyFriend(name){
-  return ""
+  return `Hey, ${name}`
 }

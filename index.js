@@ -1,5 +1,11 @@
 function theTruth() {
-
+  return true
 }
 
-function
+function sayHey(){
+  return "Hey!"
+}
+
+function sayHeyFriend(){
+
+}

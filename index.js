@@ -6,6 +6,6 @@ function sayHey(){
   return "Hey!"
 }
 
-function sayHeyFriend(){
-
+function sayHeyFriend(name){
+  return ""
 }

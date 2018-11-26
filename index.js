@@ -20,6 +20,7 @@ function shouting(someString){
 
 
 function roundDown(someNum){
-  return Math.round(someNum)
+  if (someNum)
+  return Math.rounddown(someNum)
   
 }
